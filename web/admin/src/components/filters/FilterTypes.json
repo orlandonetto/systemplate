@@ -1,0 +1,9 @@
+{
+  "TEXT": 0,
+  "NUMBER": 1,
+  "DATE": 2,
+  "PERIOD": 3,
+  "RADIO": 4,
+  "CHECK": 5,
+  "MONEY": 6
+}
